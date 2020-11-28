@@ -1,0 +1,12 @@
+C:\Users\damia\OneDrive\Pulpit\C#- projekty\Serwer-okienkowy\LoginService\obj\Debug\netstandard2.0\LoginService.AssemblyInfoInputs.cache
+C:\Users\damia\OneDrive\Pulpit\C#- projekty\Serwer-okienkowy\LoginService\obj\Debug\netstandard2.0\LoginService.AssemblyInfo.cs
+C:\Users\damia\OneDrive\Pulpit\C#- projekty\Serwer-okienkowy\LoginService\obj\Debug\netstandard2.0\LoginService.csprojAssemblyReference.cache
+C:\Users\damia\OneDrive\Pulpit\C#- projekty\Serwer-okienkowy\LoginService\obj\Debug\netstandard2.0\LoginService.csproj.CoreCompileInputs.cache
+C:\Users\damia\OneDrive\Pulpit\C#- projekty\Serwer-okienkowy\LoginService\bin\Debug\netstandard2.0\LoginService.deps.json
+C:\Users\damia\OneDrive\Pulpit\C#- projekty\Serwer-okienkowy\LoginService\bin\Debug\netstandard2.0\LoginService.dll
+C:\Users\damia\OneDrive\Pulpit\C#- projekty\Serwer-okienkowy\LoginService\bin\Debug\netstandard2.0\LoginService.pdb
+C:\Users\damia\OneDrive\Pulpit\C#- projekty\Serwer-okienkowy\LoginService\bin\Debug\netstandard2.0\Ciphering.dll
+C:\Users\damia\OneDrive\Pulpit\C#- projekty\Serwer-okienkowy\LoginService\bin\Debug\netstandard2.0\Ciphering.pdb
+C:\Users\damia\OneDrive\Pulpit\C#- projekty\Serwer-okienkowy\LoginService\obj\Debug\netstandard2.0\LoginService.csproj.CopyComplete
+C:\Users\damia\OneDrive\Pulpit\C#- projekty\Serwer-okienkowy\LoginService\obj\Debug\netstandard2.0\LoginService.dll
+C:\Users\damia\OneDrive\Pulpit\C#- projekty\Serwer-okienkowy\LoginService\obj\Debug\netstandard2.0\LoginService.pdb

@@ -1,0 +1,16 @@
+C:\Users\damia\OneDrive\Pulpit\C#- projekty\Serwer-okienkowy\ServerTCPAsync\obj\Debug\netstandard2.0\ServerTCPAsync.AssemblyInfoInputs.cache
+C:\Users\damia\OneDrive\Pulpit\C#- projekty\Serwer-okienkowy\ServerTCPAsync\obj\Debug\netstandard2.0\ServerTCPAsync.AssemblyInfo.cs
+C:\Users\damia\OneDrive\Pulpit\C#- projekty\Serwer-okienkowy\ServerTCPAsync\obj\Debug\netstandard2.0\ServerTCPAsync.csproj.CoreCompileInputs.cache
+C:\Users\damia\OneDrive\Pulpit\C#- projekty\Serwer-okienkowy\ServerTCPAsync\bin\Debug\netstandard2.0\ServerTCPAsync.deps.json
+C:\Users\damia\OneDrive\Pulpit\C#- projekty\Serwer-okienkowy\ServerTCPAsync\bin\Debug\netstandard2.0\ServerTCPAsync.dll
+C:\Users\damia\OneDrive\Pulpit\C#- projekty\Serwer-okienkowy\ServerTCPAsync\bin\Debug\netstandard2.0\ServerTCPAsync.pdb
+C:\Users\damia\OneDrive\Pulpit\C#- projekty\Serwer-okienkowy\ServerTCPAsync\bin\Debug\netstandard2.0\Ciphering.dll
+C:\Users\damia\OneDrive\Pulpit\C#- projekty\Serwer-okienkowy\ServerTCPAsync\bin\Debug\netstandard2.0\LoginService.dll
+C:\Users\damia\OneDrive\Pulpit\C#- projekty\Serwer-okienkowy\ServerTCPAsync\bin\Debug\netstandard2.0\ServerTCP.dll
+C:\Users\damia\OneDrive\Pulpit\C#- projekty\Serwer-okienkowy\ServerTCPAsync\bin\Debug\netstandard2.0\LoginService.pdb
+C:\Users\damia\OneDrive\Pulpit\C#- projekty\Serwer-okienkowy\ServerTCPAsync\bin\Debug\netstandard2.0\ServerTCP.pdb
+C:\Users\damia\OneDrive\Pulpit\C#- projekty\Serwer-okienkowy\ServerTCPAsync\bin\Debug\netstandard2.0\Ciphering.pdb
+C:\Users\damia\OneDrive\Pulpit\C#- projekty\Serwer-okienkowy\ServerTCPAsync\obj\Debug\netstandard2.0\ServerTCPAsync.csprojAssemblyReference.cache
+C:\Users\damia\OneDrive\Pulpit\C#- projekty\Serwer-okienkowy\ServerTCPAsync\obj\Debug\netstandard2.0\ServerTCPAsync.csproj.CopyComplete
+C:\Users\damia\OneDrive\Pulpit\C#- projekty\Serwer-okienkowy\ServerTCPAsync\obj\Debug\netstandard2.0\ServerTCPAsync.dll
+C:\Users\damia\OneDrive\Pulpit\C#- projekty\Serwer-okienkowy\ServerTCPAsync\obj\Debug\netstandard2.0\ServerTCPAsync.pdb

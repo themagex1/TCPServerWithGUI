@@ -1,0 +1,9 @@
+C:\Users\damia\OneDrive\Pulpit\C#- projekty\Serwer-okienkowy\ServerTCP\bin\Debug\netstandard2.0\ServerTCP.deps.json
+C:\Users\damia\OneDrive\Pulpit\C#- projekty\Serwer-okienkowy\ServerTCP\bin\Debug\netstandard2.0\ServerTCP.dll
+C:\Users\damia\OneDrive\Pulpit\C#- projekty\Serwer-okienkowy\ServerTCP\bin\Debug\netstandard2.0\ServerTCP.pdb
+C:\Users\damia\OneDrive\Pulpit\C#- projekty\Serwer-okienkowy\ServerTCP\obj\Debug\netstandard2.0\ServerTCP.AssemblyInfoInputs.cache
+C:\Users\damia\OneDrive\Pulpit\C#- projekty\Serwer-okienkowy\ServerTCP\obj\Debug\netstandard2.0\ServerTCP.AssemblyInfo.cs
+C:\Users\damia\OneDrive\Pulpit\C#- projekty\Serwer-okienkowy\ServerTCP\obj\Debug\netstandard2.0\ServerTCP.csproj.CoreCompileInputs.cache
+C:\Users\damia\OneDrive\Pulpit\C#- projekty\Serwer-okienkowy\ServerTCP\obj\Debug\netstandard2.0\ServerTCP.dll
+C:\Users\damia\OneDrive\Pulpit\C#- projekty\Serwer-okienkowy\ServerTCP\obj\Debug\netstandard2.0\ServerTCP.pdb
+C:\Users\damia\OneDrive\Pulpit\C#- projekty\Serwer-okienkowy\ServerTCP\obj\Debug\netstandard2.0\ServerTCP.csprojAssemblyReference.cache

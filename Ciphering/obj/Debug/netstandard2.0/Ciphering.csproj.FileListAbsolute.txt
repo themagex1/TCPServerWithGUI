@@ -1,0 +1,9 @@
+C:\Users\damia\OneDrive\Pulpit\C#- projekty\Serwer-okienkowy\Ciphering\bin\Debug\netstandard2.0\Ciphering.deps.json
+C:\Users\damia\OneDrive\Pulpit\C#- projekty\Serwer-okienkowy\Ciphering\bin\Debug\netstandard2.0\Ciphering.dll
+C:\Users\damia\OneDrive\Pulpit\C#- projekty\Serwer-okienkowy\Ciphering\bin\Debug\netstandard2.0\Ciphering.pdb
+C:\Users\damia\OneDrive\Pulpit\C#- projekty\Serwer-okienkowy\Ciphering\obj\Debug\netstandard2.0\Ciphering.AssemblyInfoInputs.cache
+C:\Users\damia\OneDrive\Pulpit\C#- projekty\Serwer-okienkowy\Ciphering\obj\Debug\netstandard2.0\Ciphering.AssemblyInfo.cs
+C:\Users\damia\OneDrive\Pulpit\C#- projekty\Serwer-okienkowy\Ciphering\obj\Debug\netstandard2.0\Ciphering.dll
+C:\Users\damia\OneDrive\Pulpit\C#- projekty\Serwer-okienkowy\Ciphering\obj\Debug\netstandard2.0\Ciphering.pdb
+C:\Users\damia\OneDrive\Pulpit\C#- projekty\Serwer-okienkowy\Ciphering\obj\Debug\netstandard2.0\Ciphering.csprojAssemblyReference.cache
+C:\Users\damia\OneDrive\Pulpit\C#- projekty\Serwer-okienkowy\Ciphering\obj\Debug\netstandard2.0\Ciphering.csproj.CoreCompileInputs.cache
